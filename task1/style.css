@@ -1,0 +1,18 @@
+.orange{
+    color: orange;
+    position: relative;
+    bottom: 20px;
+    left: 103px;
+}
+.white{
+    color: white;
+    position: relative;
+    top: 6px;
+    left: 20px;
+}
+.green{
+    color: green;
+    position: relative;
+    top: 33px;
+    right: 71px;
+}
